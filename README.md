@@ -1,2 +1,2 @@
-# MIT-Missing-Semester
+# MIT-Missing_Semester
 self-learning program
